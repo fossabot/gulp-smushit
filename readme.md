@@ -1,4 +1,5 @@
 # [gulp](http://gulpjs.com)-smushit [![Build Status](https://travis-ci.org/heldr/gulp-smushit.svg?branch=master)](https://travis-ci.org/heldr/gulp-smushit)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fheldr%2Fgulp-smushit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fheldr%2Fgulp-smushit?ref=badge_shield)
 
 Gulp plugin to optimize PNG and JPG using reSmush.it. Made on top of [smosh](https://github.com/heldr/smosh).
 
@@ -44,3 +45,6 @@ Show compress rate stats
 ## License
 
 MIT © [Helder Santana](https://github.com/heldr)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fheldr%2Fgulp-smushit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fheldr%2Fgulp-smushit?ref=badge_large)
